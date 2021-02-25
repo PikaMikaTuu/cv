@@ -1,7 +1,17 @@
-## H 
+## Deep Bhatt
 
-/usr/bin/whoami
+### `/usr/bin/whoami`
 
-Experience
+_Backend developer | Security guy | I play CTFs_
 
-What I'm interested in
+### `Experience`
+
+* foo
+* bar
+* baz
+
+### `What I'm interested in`
+
+* fizz
+* buzz
+* cux
